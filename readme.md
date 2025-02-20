@@ -18,7 +18,7 @@ O **Nearby App** oferece as seguintes funcionalidades principais:
 - **Leitura de QRCode**: O aplicativo utiliza a câmera do dispositivo para escanear QRCodes, permitindo o resgate de cupons.
 
 
-![Overview do Projeto](./imagens/overview_app.JPG)
+![Overview do Projeto](./images/overview_app.JPG)
 
 ---
 
