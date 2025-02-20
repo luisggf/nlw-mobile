@@ -32,7 +32,7 @@ export function Places({ data }: Props){
                 renderItem={({ item }) => {
                     return (<Place data={item}/>);
                 }}
-                contentContainerStyle={s.container}
+                contentContainerStyle={s.content}
                 ListHeaderComponent={() => (
                     <Text style={s.title}>Explore locais perto de você</Text>
                 )}
